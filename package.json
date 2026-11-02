@@ -1,0 +1,1 @@
+{"name":"conceptbox-lead-finder-portfolio","version":"1.0.0","private":true,"scripts":{"check":"node --check docs/app.js && node --check docs/domain.js","test":"node --test tests/domain.test.js"}}
