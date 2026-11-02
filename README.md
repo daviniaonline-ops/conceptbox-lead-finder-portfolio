@@ -4,6 +4,8 @@ An interactive portfolio demonstration of evidence-led lead review, built by Dav
 
 The original private PHP/MySQL application was built to discover relevant companies, verify records, research websites, prioritise potential opportunities and prepare outreach for human review. This independently adapted static edition demonstrates selected workflows using fictional records.
 
+**[Try the live demo](https://daviniaonline-ops.github.io/conceptbox-lead-finder-portfolio/)**
+
 ## Try the workflow
 
 1. Open the public demo or serve `docs/` locally with `python3 -m http.server 8000 --directory docs`.
